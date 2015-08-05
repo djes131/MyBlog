@@ -1,0 +1,22 @@
+/* General Demo Style */
+
+body{
+	background: #000;
+	color: rgba(255,255,255,0.8);
+	/*font-family: 'Bitter','Myriad Pro', Arial, sans-serif;*/
+	font-size: 15px;
+}
+.row{
+	margin-top: 10px;
+}
+.form{
+	margin-top: 35px;
+}
+.leftimg{
+	float: left;
+	margin: 7px 7px 7px 0;
+}
+
+#footer{
+	float: right;
+}
